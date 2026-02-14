@@ -1,0 +1,2 @@
+NoteNow is a TodoList project with a modern UI , easy-to-use UX. NoteNow supports date filtering, tracks created and completed dates, shows remaining and finished tasks, pagination and full CRUD features.This project is built with React.js, Shadcn, Sonner, Tailwind, Node.js , Express.js, PostgreSQL. 
+Attention: To run this project you have to create your own database. All you need is go to the file db.txt 
