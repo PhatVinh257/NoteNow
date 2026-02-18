@@ -14,7 +14,7 @@ export const findAllTask = async (
   // SEARCH
   if (search) {
     params.push(`%${search}%`)
-    conditions.push(`(title ILIKE $${params.length} OR description ILIKE $${params.length})`)
+    conditions.push(`(title ILIKE $${params.length})`)
   }
 
   // FILTER STATUS
